@@ -19,12 +19,21 @@ This repository is a beginner-friendly Python learning project based on a 30-day
 - `exercise_day2.py` - Day 2 exercise solutions in Python
 - `exercise_day2.md` - formatted learning guide with questions and answers
 
+### Day 3
+- `list.py` - list creation, indexing, slicing, modifying, and common list methods
+- `list_exercise.py` - list exercise solutions in Python
+- `list_exercise.md` - formatted learning guide with questions and answers
+- `conditonal_exercise.py` - conditional practice solutions in Python
+- `conditional_exercise.md` - formatted learning guide with questions and answers
+
 ## What we have achieved so far
 
 - Created and organized a Python learning workspace
 - Improved file naming, spelling, and grammar in the lesson scripts
 - Added comments and beginner-friendly explanations
 - Formatted the Day 2 exercises into a clean markdown guide
+- Formatted the Day 3 list and conditional exercises into matching markdown guides
+- Added descriptive comments to the Day 3 list lesson
 - Pushed the project to GitHub
 
 ## Goal
@@ -38,6 +47,9 @@ You can run any file with Python, for example:
 ```bash
 python Day1/hello_word.py
 python Day2/string.py
+python Day3/list.py
+python Day3/list_exercise.py
+python Day3/conditonal_exercise.py
 ```
 
 ## Repository
