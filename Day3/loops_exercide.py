@@ -5,30 +5,30 @@ from countries_list import countries
 
 
 # # Iterate 0 to 10 using for loop, do the same using while loop.
-# print("For Loop")
-# for i in range(11):
-#     print(i)
+print("For Loop")
+for i in range(11):
+    print(i)
 
-# print("While Loop")
+print("While Loop")
 
-# i=0
-# while i<11:
-#     print(i)
-#     i=i+1
+i=0
+while i<11:
+    print(i)
+    i=i+1
 
 
 # # Iterate 10 to 0 using for loop, do the same using while loop.
 
-# print("For Loop")
-# for i in range(10,-1,-1):
-#     print(i)
+print("For Loop")
+for i in range(10,-1,-1):
+    print(i)
 
-# print("While Loop")
+print("While Loop")
 
-# i=10
-# while i>=0:
-#     print(i)
-#     i=i-1
+i=10
+while i>=0:
+    print(i)
+    i=i-1
 
 
 # Write a loop that makes seven calls to print(), so we get on the output the following triangle:
@@ -40,9 +40,9 @@ from countries_list import countries
   ######
   #######
 
-# for i in range(7):
-#     i=i+1
-#     print('#'*i)
+for i in range(7):
+    i=i+1
+    print('#'*i)
 
 
 #Use nested loops to create the following:
@@ -116,6 +116,10 @@ for i in range(101):
 print(f'The sum of all evens is {sum_of_even_num}. And the sum of all odds is {sum_of_odd_num}')
 
 
+
+#Go to the data folder and use the countries.py file. Loop through the countries and extract all the countries containing the word land.
 for country in countries:
     if 'land' in country:
         print(country)
+
+
