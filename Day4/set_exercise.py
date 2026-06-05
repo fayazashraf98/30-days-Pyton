@@ -61,7 +61,10 @@ print(f'Set :{set(age)} Len Set: {len(set(age))},Len List: {len(age)} Is List Bi
 # Tuple → fixed list
 # Set → unique items only
 
+
+
 sentence = "I am a teacher and I love to inspire and teach people"
 words = sentence.split()
 unique_words = set(words)
 print(len(unique_words))
+
