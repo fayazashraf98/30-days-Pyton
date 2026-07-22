@@ -40,6 +40,7 @@ This repository is a beginner-friendly Python learning project based on a 30-day
 
 ### Day 5
 - `lambda_function.py` - normal functions and lambda function examples
+- `higher_order_function.py` - higher-order function examples with explanation and comments
 
 ## What we have achieved so far
 
@@ -50,6 +51,7 @@ This repository is a beginner-friendly Python learning project based on a 30-day
 - Formatted the Day 3 list and conditional exercises into matching markdown guides
 - Added the Day 4 function exercises in both Python and markdown form
 - Added the Day 5 lambda function lesson with clearer comments
+- Added the Day 5 higher-order function lesson with definitions and comments
 - Pushed the project to GitHub
 
 ## Goal
