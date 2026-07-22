@@ -26,6 +26,21 @@ This repository is a beginner-friendly Python learning project based on a 30-day
 - `conditonal_exercise.py` - conditional practice solutions in Python
 - `conditional_exercise.md` - formatted learning guide with questions and answers
 
+### Day 4
+- `functions.py` - function basics and simple examples
+- `function_exercise.py` - Day 4 function exercise solutions in Python
+- `function_exercise.md` - formatted learning guide with questions and answers
+- `Dictionary.py` - dictionary examples and practice
+- `dictionary_exercise.py` - dictionary exercise solutions in Python
+- `dictionary_exercise.md` - formatted learning guide with questions and answers
+- `set.py` - set examples and practice
+- `set_exercise.py` - set exercise solutions in Python
+- `set_exercise.md` - formatted learning guide with questions and answers
+- `tuples.py` - tuple examples and practice
+
+### Day 5
+- `lambda_function.py` - normal functions and lambda function examples
+
 ## What we have achieved so far
 
 - Created and organized a Python learning workspace
@@ -33,7 +48,8 @@ This repository is a beginner-friendly Python learning project based on a 30-day
 - Added comments and beginner-friendly explanations
 - Formatted the Day 2 exercises into a clean markdown guide
 - Formatted the Day 3 list and conditional exercises into matching markdown guides
-- Added descriptive comments to the Day 3 list lesson
+- Added the Day 4 function exercises in both Python and markdown form
+- Added the Day 5 lambda function lesson with clearer comments
 - Pushed the project to GitHub
 
 ## Goal
